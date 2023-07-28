@@ -1,2 +1,2 @@
-# FeedbackApiForOnlineShop
-Swager Feedback API for Online Shop
+# Reviews
+АПИ для хранения отзывов о продукте
